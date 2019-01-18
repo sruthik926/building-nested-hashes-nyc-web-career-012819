@@ -7,7 +7,8 @@ def third_challenge
         #your key/value pairs here
         },
       :matriarch => {
-        :name =>
+        :name => "Lady Montague",
+        
         #your key/value pairs here
         },
       :hero => {
