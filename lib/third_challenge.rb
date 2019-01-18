@@ -14,11 +14,10 @@ def third_challenge
       :hero => { 
         :name => "Romeo",
         :age => "15",
-        :status => "alive".
+        :status => "alive"},
+         : hero friends => []
         #your key/value pairs here
-        },
-      
-      }, 
+      },
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet", 
